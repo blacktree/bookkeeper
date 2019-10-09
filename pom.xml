@@ -69,7 +69,7 @@
     <module>metadata-drivers</module>
     <module>bookkeeper-dist</module>
     <module>shaded</module>
-    <module>microbenchmarks</module>
+    <!--  <module>microbenchmarks</module> -->
     <module>tests</module>
   </modules>
   <mailingLists>
